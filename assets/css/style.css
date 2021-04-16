@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Beginning of Header Section Style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +41,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* End of Header Syling */
 
 a {
     color: #ffffff;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Start of Hero Section Styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* End of Hero Styling */
 
 .float-left {
     float: left;
@@ -69,6 +73,7 @@ p {
     margin-left: 25px;
 }
 
+/* Start of Services and Benefits Styling */
 .services {
     width: 75%;
     display: inline-block;
@@ -119,7 +124,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of Services and Benefits Styling */
 
+/* Start of Footer Styling */
 footer {
     padding: 30px;
     clear: both;
@@ -130,3 +137,4 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+/* End of Footer Styling */
